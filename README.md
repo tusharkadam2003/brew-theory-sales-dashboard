@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis Dashboard ☕📊
+# Brew Theory Coffee Bar Sales Analysis Dashboard ☕📊
 
 An interactive business intelligence project focused on analyzing retail coffee shop sales data to uncover actionable insights, improve operational performance, and support strategic decision-making.
 
