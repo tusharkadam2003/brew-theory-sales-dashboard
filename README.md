@@ -65,13 +65,6 @@ The insights generated from this analysis can help businesses:
 - Enhance customer experience
 - Make data-driven operational decisions
 
----
-
-## 🚀 Future Improvements
-- Build the dashboard in Power BI/Tableau
-- Add forecasting models for future sales prediction
-- Integrate customer segmentation analysis
-- Automate reporting using Python or SQL
 
 ---
 
